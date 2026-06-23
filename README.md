@@ -18,6 +18,8 @@ The workflow covers:
 
 - ## 📂 Dataset
 
+- 📄 **Customer Shopping Dataset:** [Shopping_raw_data.csv](./Shopping_raw_data.csv)
+
 The dataset contains **3,900 customer transactions** with **18 features**, including:
 - Customer demographics (Age, Gender, Location)
 - Purchase details (Product, Category, Amount, Season)
