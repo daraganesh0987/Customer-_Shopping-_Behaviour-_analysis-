@@ -79,8 +79,11 @@ Several business questions were answered using MySQL, including:
 
 ## 4️⃣ Power BI Dashboard
 
-An interactive dashboard was built featuring:
+An interactive Power BI dashboard was built to visualize customer shopping behavior and key business metrics.
 
+🔗 **Power BI Dashboard:** [Dashboard for Customer Shopping Behavior](./Dashboard%20for%20Customer%20_shopping%20_behavior.pbix)
+
+### Dashboard Highlights
 - 📈 Revenue KPIs
 - 👥 Customer demographics
 - 🛒 Product category performance
